@@ -1,0 +1,21 @@
+{
+    "workspace.library": [
+        "/home/michael/.config/nvim",
+        "/home/michael/.local/share/nvim/lazy/lazy.nvim",
+        "/home/michael/.local/share/nvim/lazy/nvim-dap-virtual-text",
+        "/home/michael/.local/share/nvim/lazy/nvim-dap-ui",
+        "/home/michael/.local/share/nvim/lazy/nvim-dap",
+        "/home/michael/.local/share/nvim/lazy/cmp-nvim-lsp",
+        "/home/michael/.local/share/nvim/lazy/nvim-lspconfig",
+        "/home/michael/.local/share/nvim/lazy/rust-tools.nvim",
+        "/home/michael/.local/share/nvim/lazy/nvim-treesitter-textobjects",
+        "/home/michael/.local/share/nvim/lazy/rainbow-delimiters.nvim",
+        "/home/michael/.local/share/nvim/lazy/nvim-treesitter",
+        "/home/michael/.local/share/nvim/lazy/rose-pine",
+        "/usr/share/nvim/runtime",
+        "/home/michael/.local/share/nvim/lazy/cmp-nvim-lsp/after",
+        "/home/michael/.config/nvim/after",
+        "/home/michael/.local/state/nvim/lazy/readme",
+        "${3rd}/luassert/library"
+    ]
+}

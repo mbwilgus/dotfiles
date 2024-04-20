@@ -1,0 +1,8 @@
+[user]
+	email = m.b.wilgus@gmail.com
+	name = Michael Wilgus
+[commit]
+	verbose = true
+	; template = /home/mbwilgus/.gitmessage
+[pull]
+	rebase = true
